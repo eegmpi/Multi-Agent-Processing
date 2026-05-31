@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Testing
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Config / secrets
+.env
+.env.*
+!.env.example
+config.local.yaml
+
+# Models / weights (large binary files)
+*.pt
+*.pth
+*.onnx
+models/weights/
+
+# Distribution
+*.whl
+MANIFEST
