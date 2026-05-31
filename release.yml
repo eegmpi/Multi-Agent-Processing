@@ -1,0 +1,55 @@
+---
+name: Bug Report
+about: Report a reproducible bug in EEG-MPI
+title: "[BUG] "
+labels: ["bug", "needs-triage"]
+assignees: []
+---
+
+## Bug Description
+
+<!-- A clear, concise description of the bug. -->
+
+## Steps to Reproduce
+
+1. 
+2. 
+3. 
+
+## Expected Behavior
+
+<!-- What you expected to happen. -->
+
+## Actual Behavior
+
+<!-- What actually happened. Include error messages and tracebacks. -->
+
+```
+Paste traceback here
+```
+
+## Environment
+
+| Field | Value |
+|-------|-------|
+| EEG-MPI version | <!-- e.g. 2.4.1 --> |
+| Python version | <!-- e.g. 3.11.9 --> |
+| OS | <!-- e.g. Ubuntu 22.04 / macOS 14 / Windows 11 --> |
+| EEG device | <!-- e.g. OpenBCI Cyton, or "sample data" --> |
+| Redis version | <!-- e.g. 7.2.4 --> |
+
+## Config (`config.yaml`)
+
+```yaml
+# Paste your config here (remove any sensitive values)
+```
+
+## Minimal Reproducible Example
+
+```python
+# Code to reproduce the bug
+```
+
+## Additional Context
+
+<!-- Screenshots, logs, or any other relevant information. -->

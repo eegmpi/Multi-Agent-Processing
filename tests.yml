@@ -1,0 +1,40 @@
+---
+name: Feature Request
+about: Suggest a new feature or improvement for EEG-MPI
+title: "[FEATURE] "
+labels: ["enhancement"]
+assignees: []
+---
+
+## Summary
+
+<!-- A one-line summary of the feature you'd like. -->
+
+## Motivation
+
+<!-- Why is this feature needed? What problem does it solve? -->
+
+## Proposed Solution
+
+<!-- Describe how you'd like this feature to work. -->
+
+## Alternatives Considered
+
+<!-- Have you considered other approaches? -->
+
+## Agent / Component Affected
+
+- [ ] PreprocessingAgent (Agent 01)
+- [ ] FeatureExtractionAgent (Agent 02)
+- [ ] ClassificationAgent (Agent 03)
+- [ ] DecisionAgent (Agent 04)
+- [ ] VisualizationAgent (Agent 05)
+- [ ] MessageBus / Core
+- [ ] Dashboard
+- [ ] CLI / Config
+- [ ] New Agent (describe below)
+- [ ] Other
+
+## Additional Context
+
+<!-- Any relevant research, papers, or prior art. -->

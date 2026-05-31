@@ -1,0 +1,16 @@
+"""EEG-MPI agent registry."""
+from .base_agent import BaseAgent
+from .classification_agent import ClassificationAgent
+from .decision_agent import DecisionAgent
+from .feature_extraction_agent import FeatureExtractionAgent
+from .preprocessing_agent import PreprocessingAgent
+from .visualization_agent import VisualizationAgent
+
+__all__ = [
+    "BaseAgent",
+    "PreprocessingAgent",
+    "FeatureExtractionAgent",
+    "ClassificationAgent",
+    "DecisionAgent",
+    "VisualizationAgent",
+]
