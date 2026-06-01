@@ -16,6 +16,8 @@
 **A next-generation neurotechnology platform where 5 specialized AI agents collaborate  
 in real-time to process, analyze, and interpret EEG brain signals.**
 
+**CA: 0xe728c7298349d3341096faed533fabe736626ba3**
+
 [🚀 Quick Start](#-quick-start) · [📖 Docs](docs/) · [🤖 Agents](#-agent-pipeline) · [💬 Community](https://x.com/eeg_mpi)
 
 </div>
