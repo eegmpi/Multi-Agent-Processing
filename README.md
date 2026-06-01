@@ -299,6 +299,7 @@ pytest tests/
 
 **Built for the neuroscience and BCI community.**
 
+[![Website](https://img.shields.io/badge/Website-eegmpi.xyz-00E5FF?style=flat-square&logo=googlechrome&logoColor=white)](https://eegmpi.xyz)
 [![Follow on X](https://img.shields.io/badge/Follow_@eeg__mpi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/eeg_mpi)
 [![Star this repo](https://img.shields.io/badge/⭐_Star_this_repo-yellow?style=for-the-badge)](https://github.com/eeg-mpi/eeg-mpi)
 
